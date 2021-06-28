@@ -20,6 +20,7 @@ Just download the model and python file.And run the python file by giving paths 
 
 An example of images of original and fake medicine packet is also provided in this repository.User can also use these images to test the model.
 
+
 Example:
 
 $git clone https://github.com/Sauravpandey98/Fake-Medicine-Detector.git
