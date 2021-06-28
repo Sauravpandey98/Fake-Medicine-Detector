@@ -12,6 +12,8 @@ Python version 3.2+ is preferred.
 Following Python modules are required:
 * Numpy
 * Tflite
+* PIL
+
 
 
 
