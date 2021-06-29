@@ -30,3 +30,9 @@ $git clone https://github.com/Sauravpandey98/Fake-Medicine-Detector.git
 $cd /path to cloned folder
 
 $ python3 Fake_medicine_detection.py /path to model /path to original medicine's packet image /path to MUT's packet image
+
+# Credits
+
+[Mishael Thomas](https://github.com/MishaelThomas)
+
+[Deepak Gupta](https://github.com/deepak2310gupta?tab=overview&from=2021-05-01&to=2021-05-31)
